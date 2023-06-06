@@ -1,5 +1,7 @@
 # Back end repository
-Back end repository for the demo web, built with Express & MySQL
+Back end repository for the demo web, built with Express & MySQL.
+
+Front end repository: [https://github.com/R4Rain/front_end_demo_transactions](here)
 
 # How to run
 - Install dependencies
