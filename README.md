@@ -9,6 +9,8 @@ Front end repository: [here](https://github.com/R4Rain/front_end_demo_transactio
 npm install
 ```
 
+- Create a new database (database configurations can be managed in `.env`)
+
 - Run the application
 ```bash
 npm run start
